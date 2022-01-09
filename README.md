@@ -10,6 +10,8 @@ Install all required libraries and now ready to run the code. It is recommended 
 This paper has used two datasets called ChestCOVID dataset (https://github.com/ieee8023/COVID-chestxray-dataset) and DarkCOVID dataset (https://github.com/muhammedtalo/COVID-19). It is recommended to download these datasets and save in the folder "CovidDataset" for running the codes. 
 # Citation: 
 The paper is available at https://arxiv.org/abs/2110.07136 and the authors using this code should cite as: 
+
+--------------------------
 @article{nguyen2021federatedcovid,
   title={Federated learning for covid-19 detection with generative adversarial networks in edge cloud computing},
   author={Nguyen, Dinh C and Ding, Ming and Pathirana, Pubudu N and Seneviratne, Aruna and Zomaya, Albert Y},
