@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Dec 13 11:59:45 2020
-https://github.com/SimoneRosset/AUGMENTATION_GAN
+Created on Sun Dec 13 11:59:45 2021
+
 @author: cdnguyen
 """
 import argparse
