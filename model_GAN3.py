@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Dec 13 19:37:59 2020
-
+This is GAN model used for COVID data augmentation
 @author: cdnguyen
 """
 
