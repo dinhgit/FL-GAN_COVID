@@ -1,14 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec 15 10:59:05 2020
-
-@author: cdnguyen
-"""
-# -*- coding: utf-8 -*-
-"""
 Created on Sun Dec 13 11:59:45 2020
-https://github.com/SimoneRosset/AUGMENTATION_GAN
-@author: cdnguyen
+
+This is the FL-GAN code for COVID-19 data augmentation, as part of the paper publication: 
+    "Federated Learning for COVID-19 Detection with Generative Adversarial Networks in Edge Cloud Computing", 
+    IEEE Internet of Things Journal, Nov. 2021, Accepted (https://ieeexplore.ieee.org/abstract/document/9580478)
+@author: Dinh C. Nguyen 
 """
 import argparse
 import datetime
