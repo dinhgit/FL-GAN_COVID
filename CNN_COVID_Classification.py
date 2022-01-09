@@ -1,16 +1,11 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 16 11:39:01 2020
 
+"""
+Created on Sun Dec 13 19:37:59 2020
+This is CNN model used for COVID classification
 @author: cdnguyen
 """
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 16 11:19:28 2020
-https://github.com/muhammedtalo/COVID-19/blob/master/DarkCovidNet%20model%20for%20three%20classes.ipynb
 
-@author: cdnguyen
-"""
 
 import os
 import numpy as np
