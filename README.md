@@ -13,9 +13,12 @@ The paper is available at https://arxiv.org/abs/2110.07136 and the authors using
 
 --------------------------
 @article{nguyen2021federatedcovid,
+
   title={Federated learning for covid-19 detection with generative adversarial networks in edge cloud computing},
+  
   author={Nguyen, Dinh C and Ding, Ming and Pathirana, Pubudu N and Seneviratne, Aruna and Zomaya, Albert Y},
+  
   journal={IEEE Internet of Things Journal},
+  
   year={2021},
-  publisher={IEEE}
 }
